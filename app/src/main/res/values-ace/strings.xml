@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="string_enter_date_in_year" translatable="false">Εισαγάγετε το έτος (ΕΤΟΣ):</string>
+    <string name="string_string_string_enter_date_in_year">Εισαγάγετε το έτος (ΕΤΟΣ):</string>
+    <string name="string_string_enter_date_in_year">Εισαγάγετε το έτος (ΕΤΟΣ):</string>
+    <string name="enter_date_in_year">Εισαγάγετε το έτος (ΕΤΟΣ):</string>
+</resources>

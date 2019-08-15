@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Παλαιοημερολογιακές μετατροπές</string>
+    <string name="enter_date_in_year">Enter the annum date (YYYY):</string>
+    <string name="string_enter_date_in_year" >Enter the annum date (YYYY):</string>
+    <string-array name="mont">Integer</string-array>
+    <string name="string_string_enter_date_in_year">Enter the annum date (YYYY):</string>
+    <string name="string_string_string_enter_date_in_year">Enter the annum date (YYYY):</string>
+    <string name="find_weekday">Find Weekday</string>
+</resources>
